@@ -1,6 +1,6 @@
-[![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankman61&show_icons=true&theme=github_dark_dimmed)](https://github.com/tankman61/github-readme-stats)
-
 # Hi there! I'm William Yang👋
+
+[![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankman61&show_icons=true&theme=github_dark_dimmed)](https://github.com/tankman61/github-readme-stats)
 
 ## About Me
 Aspiring Software Engineer passionate about interconnecting aviation and technology. Incoming Software Engineering student at the University of Waterloo, currently seeking Summer 2026 internships.
