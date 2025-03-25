@@ -1,5 +1,5 @@
 ## 📊 GitHub Stats
-[![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankman61)](https://github.com/tankman61/github-readme-stats)
+[![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankman61&show_icons=true&theme=github_dark_dimmed)](https://github.com/tankman61/github-readme-stats)
 
 # Hi there! I'm William Yang👋
 
