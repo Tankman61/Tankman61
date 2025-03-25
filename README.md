@@ -1,7 +1,5 @@
 ## 📊 GitHub Stats
-[![William's GitHub stats](https://github-readme-stats.vercel.sh/api?username=tankman61&show_icons=true&border_radius=25)](https://github.com/tankman61/)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tankman61&border_radius=25&ring=5194F0&fire=4D71F2&currStreakLabel=5194F0)](https://github.com/tankman61/)
-![Profile views](https://gpvc.arturio.dev/tankman61)
+[![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankman61)](https://github.com/tankman61/github-readme-stats)
 
 # Hi there! I'm William Yang👋
 
