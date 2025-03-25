@@ -1,4 +1,3 @@
-## 📊 GitHub Stats
 [![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankman61&show_icons=true&theme=github_dark_dimmed)](https://github.com/tankman61/github-readme-stats)
 
 # Hi there! I'm William Yang👋
@@ -8,10 +7,10 @@ Aspiring Software Engineer passionate about interconnecting aviation and technol
 
 ## Aviation
 I've had a passion for aviation since I was 5 years old. So far:
-- Contributed to Digital Flight Dynamics' A350X project
+- I have contributed to Digital Flight Dynamics' A350X 
   - Creating an accurate simulation of the A350 Aircraft OIS using React.js
 - I have been a dedicated simulator pilot on the VATSIM network
-- Been persuing a Private Pilot's License in my free time 
+- I have been persuing a Private Pilot's License in my free time 
 
 ## Tech Stack
 - **Languages:** Python, C, JavaScript
