@@ -3,7 +3,7 @@
 [![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankman61&show_icons=true&theme=github_dark_dimmed)](https://github.com/tankman61/github-readme-stats)
 
 ## About Me 🧍‍♂
-Aspiring Software Engineer passionate about interconnecting aviation and technology. Incoming Software Engineering student at the University of Waterloo, currently seeking Summer 2026 internships.
+Aspiring Software Engineer passionate about connecting aviation with technology. Incoming Software Engineering student at the University of Waterloo, currently seeking Summer 2026 internships.
 
 ## My Passion For Coding & Aviation ✈️
 I've had a passion for aviation since I was 5 years old. So far:
