@@ -6,7 +6,7 @@
 Aspiring Software Engineer passionate about connecting aviation with technology. Incoming Software Engineering student at the University of Waterloo, currently seeking Summer 2026 internships.
 
 ## My Passion For Coding & Aviation ✈️
-I've had a passion for aviation since I was 5 years old. So far:
+I've been passionate about aviation since I was 5 years old, and I discovered my love for coding at 13. Since then:
 - I have contributed to Digital Flight Dynamics' A350X, creating an accurate simulation of the A350 Aircraft OIS using React.js
 - I have been a dedicated simulator pilot on the VATSIM network
 - I have been persuing a Private Pilot's License in my free time 
