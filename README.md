@@ -1,4 +1,4 @@
-# Hi there! I'm William Yang👋
+# Hi there! I'm William Yang 👋
 
 [![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankman61&show_icons=true&theme=github_dark_dimmed)](https://github.com/tankman61/github-readme-stats)
 
@@ -17,7 +17,7 @@ I've been passionate about aviation since I was 5 years old, and I discovered my
 - **Interests:** Full-stack Development, Game Dev, Flight Simulation
 
 ## Projects 🛠️
-- [CCC Solutions Repository](https://cccsolutions.ca/) - 2000+ users
+- [CCC Solutions Repository](https://cccsolutions.ca/)
 - [SATDuel](https://satduel.com) - SAT practice platform
 
 ##  Let's Connect 🤝
