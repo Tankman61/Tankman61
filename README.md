@@ -1,7 +1,5 @@
 # Hi there! I'm William Yang 👋
 
-[![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankman61&show_icons=true&theme=github_dark_dimmed)](https://github.com/tankman61/github-readme-stats)
-
 ## About Me 🧍‍♂
 Aspiring Software Engineer passionate about connecting aviation with technology. Incoming Software Engineering student at the University of Waterloo, currently seeking Summer 2026 internships.
 
@@ -17,13 +15,14 @@ I've been passionate about aviation since I was 5 years old, and I discovered my
 - **Interests:** Full-stack Development, Game Dev, Flight Simulation
 
 ## Projects 🛠️
-- [CCC Solutions Repository](https://cccsolutions.ca/)
+- [CCC Solutions Repository](https://cccsolutions.ca/) - Solution Repository for the Canadian Computing Competition
 - [SATDuel](https://satduel.com) - SAT practice platform
+
+[![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankman61&show_icons=true&theme=github_dark_dimmed)](https://github.com/tankman61/github-readme-stats)
 
 ##  Let's Connect 🤝
 -  [Email](mailto:willi64645@gmail.com)
 -  [LinkedIn](https://www.linkedin.com/in/william-yang-28901b306/)
--  [GitHub](https://github.com/tankman61)
 
 <!--
 **Tankman61/Tankman61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
