@@ -4,7 +4,7 @@ I'm an aspiring Software Engineer passionate about connecting aviation with tech
 
 ## My Passion For Coding & Aviation ✈️
 I've been passionate about aviation since I was 5 years old, and I discovered my love for coding at 13. Since then:
-- I have contributed to Digital Flight Dynamics' A350X, creating an accurate simulation of the A350 Aircraft OIS using React.js
+- I have contributed to Digital Flight Dynamics' A350X, helping to create a simulation of the A350's OIS using React.js
 - I have been a dedicated simulator pilot on the VATSIM network
 - I have been persuing a Private Pilot's License in my free time 
 
