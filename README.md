@@ -23,7 +23,7 @@ I've been passionate about aviation since I was 5 years old, and I discovered my
 -  [LinkedIn](https://www.linkedin.com/in/william-yang-28901b306/)
 
 ## 
-[![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankman61&show_icons=true&theme=github_dark_dimmed&hide_rank=false&hide_title=false)](https://github.com/anuraghazra/github-readme-stats)
+[![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankman61&show_icons=true&theme=github_dark_dimmed&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Tankman61/Tankman61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
