@@ -9,7 +9,7 @@ I've been passionate about aviation since I was 5 years old, and I discovered my
 - I have been persuing a Private Pilot's License in my free time 
 
 ## Tech Stack 🖥️
-- **Languages:** Python, C++, JS/TS
+- **Languages:** Python, JS/TS
 - **Frameworks & Tools:** React, TailwindCSS
 - **Interests:** Full-stack Development, Game Dev, Flight Simulation
 
