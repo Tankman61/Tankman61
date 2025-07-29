@@ -1,6 +1,7 @@
 # Hey, I'm William 👋
 
 <img src="https://komarev.com/ghpvc/?username=tankman61&style=flat-square&color=blue" alt="Profile Views" />
+
 - **Incoming Software Engineering Student @ University of Waterloo**
 - 🔭 Currently working on an [A350 styled personal website](https://github.com/Tankman61/personal-website)
 - 📚 Built [CCCSolutions](https://cccsolutions.ca), the largest solution repository for the Canadian Computing Competition
