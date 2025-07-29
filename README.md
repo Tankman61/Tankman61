@@ -1,9 +1,9 @@
 # Hey, I'm William 👋
 
 ### Software Engineering Student @ University of Waterloo
-** Seeking Summer 2026 internships!**
+<h3>Seeking Summer 2026 internships!**</h3>
 
-- 🔭 Currently working on [an A350 styled Personal Website](https://github.com/Tankman61/personal-website)
+- 🔭 Currently working on [an A350 styled personal website](https://github.com/Tankman61/personal-website)
 - 📚 Built [CCCSolutions](https://cccsolutions.ca), the largest solution repository for the Canadian Computing Competition
 - ✈️ Contributed to Digital Flight Dynamics' A350X for Microsoft Flight Simulator
 - 🌱 Trying to learn a bit of Rust in my free time
