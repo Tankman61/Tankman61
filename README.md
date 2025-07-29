@@ -1,41 +1,28 @@
-# Hi there! I'm William Yang 👋
+<h1 align="center">Hi, I'm William 👋</h1>
+<h3 align="center">I'm an aspiring Software Engineer passionate about connecting aviation with technology. Incoming Software Engineering student at the University of Waterloo, currently seeking Summer 2026 internships.</h3>
 
-I'm an aspiring Software Engineer passionate about connecting aviation with technology. Incoming Software Engineering student at the University of Waterloo, currently seeking Summer 2026 internships.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tankman61&label=Profile%20views&color=0e75b6&style=flat" alt="tankman61" /> </p>
 
-## My Passion For Coding & Aviation ✈️
-I've been passionate about aviation since I was 3 years old, and I discovered my love for coding at 13. Since then:
-- I have contributed to Digital Flight Dynamics' A350X, helping to create a simulation of the A350's OIS using React.js
-- I have been a dedicated simulator pilot on the VATSIM network
-- I have been persuing a Private Pilot's License in my free time 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tankman61" alt="tankman61" /></a> </p>
 
-## Tech Stack 🖥️
-- **Languages:** Python, JS/TS
-- **Frameworks & Tools:** React, TailwindCSS
-- **Interests:** Full-stack Development, Game Dev, Flight Simulation
+- 🔭 I’m currently working on [My Personal Website](https://github.com/Tankman61/personal-website)
 
-## Projects 🛠️
-- [CCC Solutions Repository](https://cccsolutions.ca/) - Solution Repository for the Canadian Computing Competition
-- [SATDuel](https://satduel.com) - SAT practice platform
+- 🌱 I’m currently learning **a little bit of Rust**
 
+- 👨‍💻 Check out my new portfolio soon at [williamyang.ca](williamyang.ca)
 
-##  Let's Connect 🤝
--  [Email](mailto:willi64645@gmail.com)
--  [LinkedIn](https://www.linkedin.com/in/william-yang-28901b306/)
+- 📫 How to reach me **willi64645@gmail.com**
 
-## 
-[![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankman61&show_icons=true&theme=github_dark_dimmed&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+- ⚡ Fun fact **I've been passionate about aviation since I was 3 years old!** Since then: 
+  - I have contributed to Digital Flight Dynamics' simulation of the Airbus A350 
+  - have been a flight simulator pilot on the VATSIM network
+  - I have been persuing a Private Pilot's License in my free time 
 
-<!--
-**Tankman61/Tankman61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/williamyang07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="williamyang07" height="30" width="40" /></a>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
