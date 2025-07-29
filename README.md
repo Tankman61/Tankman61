@@ -1,6 +1,10 @@
 # Hey, I'm William 👋
 
 <img src="https://komarev.com/ghpvc/?username=tankman61&style=flat-square&color=blue" alt="Profile Views" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tankman61&theme=nord&show_icons=true&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tankman61&theme=nord&show_icons=true&hide_border=true&layout=compact" height="150" alt="Top Languages" />
+</div>
 
 - **Incoming Software Engineering Student @ University of Waterloo**
 - 🔭 Currently working on an [A350 styled personal website](https://github.com/Tankman61/personal-website)
@@ -8,14 +12,6 @@
 - ✈️ Contributed to Digital Flight Dynamics' A350X for Microsoft Flight Simulator
 - 🌱 Trying to learn a bit of Rust in my free time
 - 🌏 **Fun fact:** I've been passionate about aviation since age 3 & am currently pursuing my PPL!
-
-
-## Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tankman61&theme=nord&show_icons=true&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tankman61&theme=nord&show_icons=true&hide_border=true&layout=compact" height="150" alt="Top Languages" />
-</div>
 
 ## Technical Skills
 
