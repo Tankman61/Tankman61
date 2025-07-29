@@ -1,7 +1,8 @@
 # Hey, I'm William 👋
 
+<img src="https://komarev.com/ghpvc/?username=tankman61&style=flat-square&color=blue" alt="Profile Views" />
 ### Software Engineering Student @ University of Waterloo
-<h3>Seeking Summer 2026 internships!**</h3>
+#### Seeking Summer 2025 Internships 
 
 - 🔭 Currently working on [an A350 styled personal website](https://github.com/Tankman61/personal-website)
 - 📚 Built [CCCSolutions](https://cccsolutions.ca), the largest solution repository for the Canadian Computing Competition
@@ -9,9 +10,6 @@
 - 🌱 Trying to learn a bit of Rust in my free time
 - 🌏 **Fun fact:** I've been passionate about aviation since age 3 & am currently pursuing my PPL!
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tankman61&style=flat-square&color=blue" alt="Profile Views" />
-</div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tankman61&theme=nord&show_icons=true&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tankman61&theme=nord&show_icons=true&hide_border=true&layout=compact" height="150" alt="Top Languages" />
