@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm William 👋</h1>
-<h3 align="center">I'm an aspiring Software Engineer passionate about connecting aviation with technology. Incoming Software Engineering student at the University of Waterloo, currently seeking Summer 2026 internships.</h3>
+<h4>I'm an incoming Software Engineering student at the University of Waterloo. Currently seeking Summer 2026 internships!</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tankman61&label=Profile%20views&color=0e75b6&style=flat" alt="tankman61" /> </p>
 
