@@ -9,7 +9,7 @@
   
 - 🌱 In my freetime, I'm trying to learn a little bit of Rust
 
-- 👨🏻‍✈️ Fun fact **I've been passionate about aviation since I was 3 years old, and am currently pursuing a PPL!**
+- 👨‍✈️ Fun fact: **I've been passionate about aviation since I was 3 years old, and am currently pursuing a PPL!**
 
 ###
 <div align="center">
