@@ -1,6 +1,7 @@
 <h1>Hey,  I'm William 👋</h1>
-![Views Badge](https://komarev.com/ghpvc/?username=tankman61&label=Profile%20views&color=0e75b6&style=flat)
 <h4>I'm an incoming Software Engineering student at the University of Waterloo. Currently seeking Summer 2026 internships!</h4>
+
+![Views Badge](https://komarev.com/ghpvc/?username=tankman61)
 
 - 🔭 I’m currently working on [an A350 styled Personal Website](https://github.com/Tankman61/personal-website)
 
