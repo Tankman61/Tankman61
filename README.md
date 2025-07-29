@@ -1,16 +1,13 @@
 # Hey, I'm William 👋
 
 ### Software Engineering Student @ University of Waterloo
-**Currently seeking Summer 2026 internships!**
-
-
-## About Me
+** Seeking Summer 2026 internships!**
 
 - 🔭 Currently working on [an A350 styled Personal Website](https://github.com/Tankman61/personal-website)
 - 📚 Built [CCCSolutions](https://cccsolutions.ca), the largest solution repository for the Canadian Computing Competition
 - ✈️ Contributed to Digital Flight Dynamics' A350X for Microsoft Flight Simulator
-- 🌱 Learning Rust in my free time
-- 🌏 **Fun fact:** Passionate about aviation since age 3, currently pursuing my PPL!
+- 🌱 Trying to learn a bit of Rust in my free time
+- 🌏 **Fun fact:** I've been passionate about aviation since age 3 & am currently pursuing my PPL!
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tankman61&style=flat-square&color=blue" alt="Profile Views" />
@@ -44,7 +41,7 @@
   <a href="https://linkedin.com/in/williamyang07">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
-  <a href="https://no better way to do this but its tankman69 lolol">
+  <a href="https://no_better_way_to_do_this_but_its_tankman69_lolol">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
   </a>
 </div>
