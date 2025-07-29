@@ -5,6 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=tankman61&theme=nord&show_icons=true&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tankman61&theme=nord&show_icons=true&hide_border=true&layout=compact" height="150" alt="Top Languages" />
 </div>
+<br>
 
 - **Incoming Software Engineering Student @ University of Waterloo**
 - 🔭 Currently working on an [A350 styled personal website](https://github.com/Tankman61/personal-website)
