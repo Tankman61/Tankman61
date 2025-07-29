@@ -3,7 +3,6 @@
 ### Software Engineering Student @ University of Waterloo
 **Currently seeking Summer 2026 internships!**
 
----
 
 ## About Me
 
@@ -13,18 +12,13 @@
 - 🌱 Learning Rust in my free time
 - 🌏 **Fun fact:** Passionate about aviation since age 3, currently pursuing my PPL!
 
----
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tankman61&style=flat-square&color=blue" alt="Profile Views" />
+</div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tankman61&theme=nord&show_icons=true&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tankman61&theme=nord&show_icons=true&hide_border=true&layout=compact" height="150" alt="Top Languages" />
 </div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tankman61&style=flat-square&color=blue" alt="Profile Views" />
-</div>
-
----
 
 ## Technical Skills
 
@@ -41,8 +35,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40"/>
 </div>
 
----
-
 ## Let's Connect!
 
 <div align="left">
@@ -55,10 +47,4 @@
   <a href="https://no better way to do this but its tankman69 lolol">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
   </a>
-</div>
-
----
-
-<div align="center">
-  <i>✈️ "The sky is not the limit, it's just the beginning!" ✈️</i>
 </div>
