@@ -1,10 +1,6 @@
 <h1>Hi, I'm William 👋</h1>
 <h4>I'm an incoming Software Engineering student at the University of Waterloo. Currently seeking Summer 2026 internships!</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tankman61&label=Profile%20views&color=0e75b6&style=flat" alt="tankman61" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tankman61" alt="tankman61" /></a> </p>
-
 - 🔭 I’m currently working on [an A350 styled Personal Website](https://github.com/Tankman61/personal-website)
 
 - 📚 I've built [CCCSolutions](https://cccsolutions.ca), the largest solution repository for the Canadian Computing Competition
