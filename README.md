@@ -1,4 +1,5 @@
-<h1>Hi, I'm William 👋</h1>
+<h1>Hey,  I'm William 👋</h1>
+![Views Badge](https://komarev.com/ghpvc/?username=tankman61&label=Profile%20views&color=0e75b6&style=flat)
 <h4>I'm an incoming Software Engineering student at the University of Waterloo. Currently seeking Summer 2026 internships!</h4>
 
 - 🔭 I’m currently working on [an A350 styled Personal Website](https://github.com/Tankman61/personal-website)
@@ -13,7 +14,6 @@
 
 ###
 <div align="center">
-  ![Views Badge](https://komarev.com/ghpvc/?username=tankman61&label=Profile%20views&color=0e75b6&style=flat)
   <img src="https://github-readme-stats.vercel.app/api?username=tankman61&theme=nord&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tankman61&theme=nord&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
 </div>
