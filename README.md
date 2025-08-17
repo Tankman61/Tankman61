@@ -6,7 +6,7 @@
 - 🔭 Currently working on an [A350 styled personal website](https://github.com/Tankman61/personal-website)
 - 📚 Built [CCCSolutions](https://cccsolutions.ca), the largest solution repository for the Canadian Computing Competition
 - ✈️ Contributed to Digital Flight Dynamics' A350X for Microsoft Flight Simulator
-- 🌱 Trying to learn a bit of Rust in my free time
+- 🌱 Trying to learn a bit of Rust in my free time (i think i'm failing pretty badly 😭)
 - 🌏 **Fun fact:** I've been passionate about aviation since age 3 & am currently pursuing my PPL!
 
 <br>
