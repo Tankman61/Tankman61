@@ -39,7 +39,4 @@
 <a href="https://linkedin.com/in/williamyang07" style="all: unset; display: inline-block; cursor: pointer;">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
 </a>
-<a href="https://no_better_way_to_do_this_but_its_tankman69_lolol" style="all: unset; display: inline-block; cursor: pointer;">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
-</a>
 </div>
