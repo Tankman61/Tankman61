@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=tankman61&style=flat-square&color=blue" alt="Profile Views" />
 
 - **Incoming Software Engineering Student @ University of Waterloo**
-- 🔭 Currently working on an [A350 styled personal website](https://github.com/Tankman61/personal-website)
+- 🔭 Currently building my [A350 styled personal website](https://williamyang.ca)
 - 📚 Built [CCCSolutions](https://cccsolutions.ca), the largest solution repository for the Canadian Computing Competition
 - ✈️ Contributed to Digital Flight Dynamics' A350X for Microsoft Flight Simulator
 - 🌱 Trying to learn a bit of Rust in my free time (i think i'm failing pretty badly 😭)
