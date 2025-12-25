@@ -12,7 +12,7 @@
 
 <div align="center">
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=tankman61&theme=nord&hide_border=true" height="150" alt="GitHub Streak" />  NOT WORKING -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tankman61&theme=nord&show_icons=true&hide_border=true&layout=compact" height="150" alt="Top Languages" />
+ <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tankman61&theme=nord&show_icons=true&hide_border=true&layout=compact" height="150" alt="Top Languages" /> -->
 </div>
 
 ## Technical Skills
