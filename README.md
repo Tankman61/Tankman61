@@ -8,12 +8,12 @@
 - ✈️ Developer for Digital Flight Dynamics' A350X for Microsoft Flight Simulator
 - 🌏 **Fun fact:** I've been passionate about aviation since age 3 & am currently pursuing my PPL!
 
-<br>
-
-<div align="center">
+<!-- <br> -->
+<!-- <div align="center"> -->
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=tankman61&theme=nord&hide_border=true" height="150" alt="GitHub Streak" />  NOT WORKING -->
  <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tankman61&theme=nord&show_icons=true&hide_border=true&layout=compact" height="150" alt="Top Languages" /> -->
-</div>
+<!-- </div> -->
+ 
 
 ## Technical Skills
 
