@@ -17,7 +17,7 @@
 
 ## Technical Skills
 
-<p align="center">
+<p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Claude-ai-icon.svg/960px-Claude-ai-icon.svg.png" width="100" />
 </p>
 
