@@ -18,7 +18,7 @@
 ## Technical Skills
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Claude-ai-icon.svg/960px-Claude-ai-icon.svg.png?_=20250728014952" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Claude-ai-icon.svg/960px-Claude-ai-icon.svg.png" width="100" />
 </p>
 
 ## Let's Connect!
