@@ -18,7 +18,7 @@
 ## Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,c,cpp,html,css,react,nextjs,svelte,tailwind,django,fastapi,nodejs,postgres,sqlite,git,docker,idea&perline=7" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Claude-ai-icon.svg/960px-Claude-ai-icon.svg.png?_=20250728014952" />
 </p>
 
 ## Let's Connect!
