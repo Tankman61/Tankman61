@@ -5,7 +5,7 @@
 - **Software Engineering Student @ University of Waterloo**
 - 🖥️ Incoming @ Nokia
 - 🍵 Hack The North 2025 Finalist with [Maatchaa](https://devpost.com/software/maatchaa)
-- 📚 Built [CCCSolutions](https://cccsolutions.ca), the largest solution repository for the Canadian Computing Competition
+- 📚 Building [CCCSolutions](https://cccsolutions.ca), the largest solution repository for the Canadian Computing Competition
 - 🌏 **Fun fact:** I've been passionate about aviation since age 3 & am currently pursuing my PPL!
 
 <!-- <br> -->
