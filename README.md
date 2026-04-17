@@ -3,9 +3,9 @@
 <img src="https://komarev.com/ghpvc/?username=tankman61&style=flat-square&color=blue" alt="Profile Views" />
 
 - **Software Engineering Student @ University of Waterloo**
+- 🖥️ Incoming @ Nokia
 - 🍵 Hack The North 2025 Finalist with [Maatchaa](https://devpost.com/software/maatchaa)
 - 📚 Built [CCCSolutions](https://cccsolutions.ca), the largest solution repository for the Canadian Computing Competition
-- ✈️ Prev developer for Digital Flight Dynamics' A350X for Microsoft Flight Simulator
 - 🌏 **Fun fact:** I've been passionate about aviation since age 3 & am currently pursuing my PPL!
 
 <!-- <br> -->
@@ -21,7 +21,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Claude-ai-icon.svg/960px-Claude-ai-icon.svg.png" width="100" />
 </p>
 
-## Let's Connect!
+## Contact me!
  
 <div align="left">
 <a href="mailto:willi64645@gmail.com" style="all: unset; display: inline-block; cursor: pointer;">
