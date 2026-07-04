@@ -16,17 +16,15 @@
  
 
 ## Contact me!
- 
-<div align="left">
-<a href="mailto:william.yang2@uwaterloo.ca" style="all: unset; display: inline-block; cursor: pointer;">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-</a>
 
-<a href="https://x.com/williamyang07" style="all: unset; display: inline-block; cursor: pointer;">
-  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" height="35" alt="x" />
-</a>
- 
-<a href="https://linkedin.com/in/williamyang07" style="all: unset; display: inline-block; cursor: pointer;">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-</a>
+<div align="left">
+  <a href="https://linkedin.com/in/williamyang07" style="text-decoration: none;">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+  <a href="mailto:william.yang2@uwaterloo.ca" style="text-decoration: none;">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+  <a href="https://x.com/williamyang07" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" height="35" alt="x" />
+  </a>
 </div>
