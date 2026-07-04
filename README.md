@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
 </a>
 <a href="x.com/tankman61_" style="all: unset; display: inline-block; cursor: pointer;">
-  <img =src"https://camo.githubusercontent.com/1005d2bdbd7527a867b538e5b191402f5f104317608fc99759b2bcd0b1b8f5b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f582d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d58266c6f676f436f6c6f723d7768697465" height="35" alt="X" />
+  <img =src"https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" height="35" alt="x" />
 </a>
 <a href="https://linkedin.com/in/williamyang07" style="all: unset; display: inline-block; cursor: pointer;">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
