@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=tankman61&style=flat-square&color=blue" alt="Profile Views" />
 
-- **I'm a Software Engineering Student @ University of Waterloo :)**
+**I'm a Software Engineering Student @ University of Waterloo :)**
 
 <!-- <br> -->
 <!-- <div align="center"> -->
