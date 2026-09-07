@@ -2,11 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=tankman61&style=flat-square&color=blue" alt="Profile Views" />
 
-- **Software Engineering Student @ University of Waterloo**
-- 🖥️ SWE Intern @ Nokia
-- 🍵 Hack The North 2025 Finalist with [Maatchaa](https://devpost.com/software/maatchaa)
-- 📚 Building [CCCSolutions](https://cccsolutions.ca), the largest solution repository for the Canadian Computing Competition
-- 🌏 **Fun fact:** I love planes, trains and all things transit!!
+- **I'm a Software Engineering Student @ University of Waterloo :)**
 
 <!-- <br> -->
 <!-- <div align="center"> -->
