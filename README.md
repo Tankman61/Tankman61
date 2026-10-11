@@ -32,13 +32,13 @@ Outside of tech, I really enjoy aviation, Formula 1, and listening to a lot of m
 ## Contact me!
 
 <div align="left">
-  <a href="https://linkedin.com/in/williamyang07" style="text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-  <a href="mailto:william.yang2@uwaterloo.ca" style="text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-  <a href="https://x.com/williamyang07" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" height="35" alt="x" />
-  </a>
+ <a href="https://linkedin.com/in/williamyang07">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
+ </a>
+ <a href="mailto:william.yang2@uwaterloo.ca">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Email" />
+ </a> 
+ <a href="https://x.com/williamyang07">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="35" alt="X" />
+ </a>
 </div>
