@@ -12,7 +12,7 @@
 - [CCCSolutions](https://cccsolutions.ca/): the biggest platform for Canadian Computing Competition solutions
 - [Maatchaa](https://maatchaa.co/): create organic sponsorships with Shopify/YouTube Shorts! (Finalist @ Hack the North 2025)
 
-Outside of tech, I really enjoy aviation, Formula 1, and listening to a lot of music (any aespa fans??)
+Outside of tech, I really enjoy aviation, Formula 1, and listening to a lot of music (big aespa fan!)
 
 |  | **Tech I've Worked With** |
 |---------|--------------|
