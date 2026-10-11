@@ -4,17 +4,17 @@
 
 **I'm a Software Engineering Student @ University of Waterloo :)**
 
-- I'm really interested in how systems stay reliable at scale
-- I'm currently learning more about how computers actually work
+- I'm really interested in how systems stay reliable at scale!
+- I'm currently learning more about how computers actually work.
 
-**Some cool projects I've worked on:**
-- [my personal site](https://williamyang.ca/) (in the style of the Airbus A350)
-- [cccsolutions](https://cccsolutions.ca/): the biggest platform for Canadian Computing Competition solutions
-- [maatchaa](https://maatchaa.co/): create organic sponsorships with Shopify/YouTube Shorts! (built at Hack the North 2025)
+**Some cool stuff I've worked on:**
+- [My Personal Site](https://williamyang.ca/) (in the style of the Airbus A350)
+- [CCCSolutions](https://cccsolutions.ca/): the biggest platform for Canadian Computing Competition solutions
+- [Maatchaa](https://maatchaa.co/): create organic sponsorships with Shopify/YouTube Shorts! (Finalist @ Hack the North 2025)
 
-Outside of tech, I really enjoy aviation, Formula 1, and listening to a lot of music (I listen to literally everything!)
+Outside of tech, I really enjoy aviation, Formula 1, and listening to a lot of music (any aespa fans??)
 
-|  | **Tech I'm familiar with** |
+|  | **Tech I've Worked With** |
 |---------|--------------|
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
 | **Frameworks** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white) ![DrizzleORM](https://img.shields.io/badge/DrizzleORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
