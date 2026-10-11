@@ -5,7 +5,7 @@
 **I'm a Software Engineering Student @ University of Waterloo :)**
 
 - I'm really interested in how systems stay reliable at scale!
-- I'm currently learning more about how computers actually work.
+- I'm currently learning more about how computers actually work
 
 **Some cool stuff I've worked on:**
 - [My Personal Site](https://williamyang.ca/) (in the style of the Airbus A350)
