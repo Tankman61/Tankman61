@@ -8,7 +8,7 @@
 - I'm currently learning more about how computers actually work
 
 **Some cool stuff I've worked on:**
-- [My Personal Site](https://williamyang.ca/) (in the style of the Airbus A350)
+- [My Personal Site](https://williamyang.ca/): Built in the style of the Airbus A350's FMS 
 - [CCCSolutions](https://cccsolutions.ca/): the biggest platform for Canadian Computing Competition solutions
 - [Maatchaa](https://maatchaa.co/): create organic sponsorships with Shopify/YouTube Shorts! (Finalist @ Hack the North 2025)
 
