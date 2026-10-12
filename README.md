@@ -7,12 +7,12 @@
 - I'm really interested in how systems stay reliable at scale!
 - I'm currently learning more about how computers actually work
 
-**Some cool stuff I've worked on:**
+**Some cool stuff I've made:**
 - [My Personal Site](https://williamyang.ca/): Built in the style of the Airbus A350's FMS 
 - [CCCSolutions](https://cccsolutions.ca/): the biggest platform for Canadian Computing Competition solutions
-- [Maatchaa](https://maatchaa.co/): create organic sponsorships with Shopify/YouTube Shorts! (Finalist @ Hack the North 2025)
+- [Maatchaa](https://maatchaa.co/): create organic sponsorships with Shopify/YouTube Shorts (Finalist @ Hack the North 2025)
 
-Outside of tech, I really enjoy aviation, Formula 1, and listening to a lot of music (big aespa fan!)
+Outside of tech, I really enjoy history, aviation, Formula 1, and music (I listen to literally everything!)
 
 |  | **Tech I've Worked With** |
 |---------|--------------|
