@@ -1,6 +1,6 @@
 # Hey, I'm William 👋
 
-<img src="https://komarev.com/ghpvc/?username=tankman61&v=1&style=flat-square&color=blue" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=tankman61&style=flat-square&color=blue" alt="Profile Views" />
 
 **I'm a Software Engineering Student @ University of Waterloo :)**
 
