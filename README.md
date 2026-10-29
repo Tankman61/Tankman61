@@ -5,14 +5,12 @@
 **I'm a Software Engineering Student @ University of Waterloo :)**
 
 - I'm really interested in how software stays reliable at scale!
-- I'm currently learning more about how computers actually work
+- Outside of tech, I really enjoy history, aviation, Formula 1, and music!
 
 **Some cool stuff I've made:**
 - [My Personal Site](https://williamyang.ca/): Built in the style of the Airbus A350's FMS 
 - [CCCSolutions](https://cccsolutions.ca/): the biggest platform for Canadian Computing Competition solutions
 - [Maatchaa](https://maatchaa.co/): create organic sponsorships with Shopify/YouTube Shorts (Finalist @ Hack the North 2025)
-
-Outside of tech, I really enjoy history, aviation, Formula 1, and music!
 
 |  | **Tech I've Worked With** |
 |---------|--------------|
