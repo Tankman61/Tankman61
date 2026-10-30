@@ -10,7 +10,7 @@
 **Some cool stuff I've made:**
 - [My Personal Site](https://williamyang.ca/): Built in the style of the Airbus A350's FMS 
 - [CCCSolutions](https://cccsolutions.ca/): the biggest platform for Canadian Computing Competition solutions
-- [Maatchaa](https://maatchaa.co/): create organic sponsorships with Shopify/YouTube Shorts (Finalist @ Hack the North 2025)
+- [Maatchaa](https://maatchaa.co/): finds organic sponsorships for Shopify stores and YouTube Shorts creators (Finalist @ Hack the North 2025)
 
 |  | **Tech I've Worked With** |
 |---------|--------------|
